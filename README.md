@@ -18,11 +18,11 @@ At EliteCareHub, we understand the value of outstanding customer service. Our mi
 
 To experience EliteCareHub's elite customer service, follow these steps:
 
-1. Sign up for an account on our website.
+- Sign up for an account on our website.
 
-2. Explore the various features and services available on the platform.
+- Explore the various features and services available on the platform.
 
-3. Contact our customer support team through the provided channels (phone, email, or live chat) for any assistance or inquiries.
+- Contact our customer support team through the provided channels (phone, email, or live chat) for any assistance or inquiries.
 
 # Learn About Us
 
