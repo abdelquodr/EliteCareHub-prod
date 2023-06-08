@@ -1,2 +1,2 @@
 # EliteCareHub
-Providing an elite customer service that turn customer to fan
+Providing an elite customer service that turn customers to fan
