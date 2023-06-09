@@ -1,10 +1,10 @@
 # EliteCareHub
 
-Providing an elite customer service that turn customers to fan
+Providing an elite customer service that turn your customers to fan
 
 # Description
 
-At EliteCareHub, we understand the value of outstanding customer service. Our mission is to go above and beyond in every interaction, ensuring that our customers not only receive the assistance they need but also leave with a memorable and positive experience. We believe that by providing elite customer care, we can create a community of satisfied customers who become our biggest advocates.
+At EliteCareHub, we understand the value of outstanding customer service. Our mission is to create a platform where every product flourish and reach its full potential with the aid of human-interactive customer-service, ensuring that every single customers not only receive the assistance they need but also leave with a memorable and positive experience. We believe that by providing elite customer care, we can create a community of satisfied customers who become our biggest advocates.
 
 # Features
 
@@ -13,6 +13,8 @@ At EliteCareHub, we understand the value of outstanding customer service. Our mi
 - Chat with visitors while they browse your site.
 
 - Start video call with your customers.
+
+- Give a tailored service to visitors and customers
 
 # Getting Started
 
@@ -28,15 +30,11 @@ To experience EliteCareHub's elite customer service, follow these steps:
 
 You can also browse our case study.
 
-    1. Online Shop
+    1. Company Profile
 
-    2. Portfolio Website
+    2. Online/blog Learning
 
-    3. Company Profile
-
-    4. Online Learning
-
-    5. News Portal
+    3. News Portal
 
 # Contact Us
 
