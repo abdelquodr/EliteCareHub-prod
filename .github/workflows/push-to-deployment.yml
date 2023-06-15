@@ -1,0 +1,25 @@
+name: Push to Deployment Repo
+on:
+  push:
+    branches:
+      - main  # Or specify the branch you want to trigger the action on
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Update sync branch
+        run: |
+          git remote add destination https://github.com/abdelquodr/EliteCareHub-prod.git
+          git push destination HEAD:sync-branch --force-with-lease
+
+      - name: Verify sync status
+        run: |
+          git remote update
+          git fetch --all
+          git rev-parse --verify origin/main
