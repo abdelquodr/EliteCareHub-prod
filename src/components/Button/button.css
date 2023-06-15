@@ -1,0 +1,79 @@
+  .button {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    border: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+  }
+
+  /* ========== Button Mode */
+  .button--solid {
+    color: white;
+    background-color: #725BA1;
+  }
+  .button--outlined {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+    border: 1px solid #FFFFFF;
+  }
+  .button--plain {
+    border: none;
+    background-color: transparent;
+  }
+  .button--plain:hover{
+    border: 1px solid #F3F5F7;
+    background-color: #FAFCFC;
+  }
+  .button--ordinary {
+    border: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+
+  /* ========= Button Size ============ */
+  .button--small {
+    font-size: 10px;
+    padding: 10px 16px;
+  }
+  .button--medium {
+    font-size: 12px;
+    padding: 11px 20px;
+  }
+  .button--large {
+    font-size: 14px;
+    padding: 12px 24px;
+  }
+
+
+
+/* =========== large screen (Desktop View) =================== */
+@media screen and (min-width: 1024px) {
+
+  .button--medium{
+    font-size: 13px;
+    padding: 12px 20px;
+  }
+
+  .button--large {
+    font-size: 15px;
+    padding: 14px 24px;
+  }
+}
+
+
+/* =========== medium screen (Tablet View) ================== */
+@media screen and (min-device-width: 768px)
+  and (max-device-width: 1024px) {
+  
+}
+
+
+
+
+
+
+
+
